@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 ### Hi there 👋
 
 I am Norbert -  Front-end enthusiast.
