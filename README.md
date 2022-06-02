@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rybski113.visitor-badge)
+
 
 I am Norbert -  Front-end enthusiast.
 
