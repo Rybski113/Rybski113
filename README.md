@@ -50,7 +50,7 @@ I am an appropriate person if you are looking for the employee who:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rybski113)](https://github.com/Rybski113/github-readme-stats)
+[![Rybski113's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rybski113)](https://github.com/Rybski113/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rybski113&layout=compact)](https://github.com/Rybski113/github-readme-stats)
