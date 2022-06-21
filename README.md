@@ -12,14 +12,10 @@ I have found myself especially in creating front-end web applications however th
 What I am currently devoting to?
 
 
-- I'm delving into HTML, CSS, Bootstrap and JavaScript.
+- I'm delving into HTML, CSS and JavaScript.
 - I'm looking for a job to create amazing apps and webs, as well as to develop my skills that will benefit in the further work .
 
-What else makes me fun?
 
-
-- I love video games,swimming and basketball
-- I enjoy the flavour of coffee.
 
 I am an appropriate person if you are looking for the employee who:
 
@@ -40,7 +36,7 @@ I am an appropriate person if you are looking for the employee who:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet)
+
 
 
 &nbsp;
@@ -66,7 +62,7 @@ I am an appropriate person if you are looking for the employee who:
 
 &nbsp;
 
-If you have any questions do not hesitate and ask me:
+
 
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)    piskorznorbert@gmail.com
 
