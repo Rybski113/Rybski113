@@ -44,16 +44,7 @@ I am an appropriate person if you are looking for the employee who:
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
-[![Rybski113's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rybski113)](https://github.com/Rybski113/github-readme-stats)
 
-
-[![Rybski113's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Rybski113&show_icons=true&locale=en&layout=compact&hide=python)
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rybski113&theme=vue)](https://git.io/streak-stats)
-
-
-//New stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rybski113&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=FFFFFF&background=FFFFFF&count_private=true" alt="Rybski113" /></p>
 
