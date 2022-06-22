@@ -24,11 +24,11 @@ I am an appropriate person if you are looking for the employee who:
 - is self-motivated and is willing to continuously enhance her competence,
 - has no problem with finding yourself in a new work environment and has positive attitude to people. 
 
-&nbsp;
+
 
 ##  🛠️ Technologies I use on a daily basis 
 
-&nbsp;
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -39,7 +39,7 @@ I am an appropriate person if you are looking for the employee who:
 
 
 
-&nbsp;
+
 
 
 
