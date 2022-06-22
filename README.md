@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">### Hi there 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 
 <h1 align="center">I am Norbert -  Front-end enthusiast.</h1>
 
@@ -52,6 +52,14 @@ I am an appropriate person if you are looking for the employee who:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rybski113&theme=vue)](https://git.io/streak-stats)
 
+
+//New stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rybski113&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=FFFFFF&background=FFFFFF&count_private=true" alt="Rybski113" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rybski113&show_icons=true&locale=en&layout=compact" alt="Rybski113" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rybski113&show_icons=true&locale=en" alt="Rybski113" /></p>
 
 
 
