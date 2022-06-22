@@ -46,7 +46,7 @@ I am an appropriate person if you are looking for the employee who:
 
 &nbsp;
 
-<p align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rybski113&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=FFFFFF&background=FFFFFF&count_private=true" alt="Rybski113" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Rybski113&theme=github-light&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=FFFFFF&background=FFFFFF&count_private=true" alt="Rybski113" /></p>
 
 &nbsp;
 
