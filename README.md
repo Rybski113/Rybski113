@@ -1,11 +1,9 @@
 
 
 
-### Hi there 👋
+<h1 align="center">### Hi there 👋</h1>
 
-
-
-I am Norbert -  Front-end enthusiast.
+<h1 align="center">I am Norbert -  Front-end enthusiast.</h1>
 
 I have found myself especially in creating front-end web applications however the building responsive websides also makes me fun.
 
