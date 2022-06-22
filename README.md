@@ -51,6 +51,8 @@ I am an appropriate person if you are looking for the employee who:
 
 [![Rybski113's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Rybski113&show_icons=true&locale=en&layout=compact&hide=python)
 
+[![GitHub Streak](http://github-readme-streak-stats.Rybski113.com?user=Rybski113&theme=gotham)](https://git.io/streak-stats)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rybski113&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
