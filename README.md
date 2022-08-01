@@ -19,7 +19,7 @@ I am an appropriate person if you are looking for the employee who:
 
 - has a high sense of responsibility,
 - is open to constructive criticism and is able to draw conclusions from it,
-- is self-motivated and is willing to continuously enhance her competence,
+- is self-motivated and is willing to continuously enhance his competence,
 - has no problem with finding yourself in a new work environment and has positive attitude to people. 
 
 
