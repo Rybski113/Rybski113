@@ -5,6 +5,8 @@
 
 <h1 align="center">I am Norbert -  Front-end enthusiast.</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rybski113&label=Profile%20views&color=0e75b6&style=flat" alt="Rybski113" /> </p>
+
 I have found myself especially in creating front-end web applications however the building responsive websides also makes me fun.
 
 What I am currently devoting to?
@@ -33,6 +35,8 @@ I am an appropriate person if you are looking for the employee who:
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
 
 
 
